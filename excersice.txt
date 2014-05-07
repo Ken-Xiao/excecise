@@ -1,3 +1,4 @@
 Go to home directory.
 new stuff here
 and modify it 
+and I add more into it
